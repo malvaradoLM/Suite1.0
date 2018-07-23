@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="spCatCuentaBancariaDS" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+  <xs:element name="spCatCuentaBancariaDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="spCatCuentaBancaria" msprop:Schema="spCatCuentaBancaria">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CuentaBancariaID" type="xs:int" />
+              <xs:element name="Cuenta">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CuentaContable">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="35" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Dlls" type="xs:boolean" minOccurs="0" />
+              <xs:element name="BancoID" type="xs:int" />
+              <xs:element name="EstacionID" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="PK_spCatCuentaBancaria" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//spCatCuentaBancaria" />
+      <xs:field xpath="CuentaBancariaID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

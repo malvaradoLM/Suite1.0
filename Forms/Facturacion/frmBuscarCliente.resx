@@ -1,0 +1,1760 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tbControl.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <assembly alias="DevExpress.XtraEditors.v17.2" name="DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="tbControl.HeaderLocation" type="DevExpress.XtraTab.TabHeaderLocation, DevExpress.XtraEditors.v17.2">
+    <value>Bottom</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="tbControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 23</value>
+  </data>
+  <data name="txtAceptar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>642, 43</value>
+  </data>
+  <data name="txtAceptar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="txtAceptar.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="txtAceptar.Text" xml:space="preserve">
+    <value>Aceptar</value>
+  </data>
+  <data name="txtAceptar.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;txtAceptar.Name" xml:space="preserve">
+    <value>txtAceptar</value>
+  </data>
+  <data name="&gt;&gt;txtAceptar.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtAceptar.Parent" xml:space="preserve">
+    <value>groupControl2</value>
+  </data>
+  <data name="&gt;&gt;txtAceptar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnBuscarCliente.Location" type="System.Drawing.Point, System.Drawing">
+    <value>418, 41</value>
+  </data>
+  <data name="btnBuscarCliente.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 23</value>
+  </data>
+  <data name="btnBuscarCliente.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnBuscarCliente.Text" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="&gt;&gt;btnBuscarCliente.Name" xml:space="preserve">
+    <value>btnBuscarCliente</value>
+  </data>
+  <data name="&gt;&gt;btnBuscarCliente.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnBuscarCliente.Parent" xml:space="preserve">
+    <value>groupControl2</value>
+  </data>
+  <data name="&gt;&gt;btnBuscarCliente.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtBuscarCliente.Location" type="System.Drawing.Point, System.Drawing">
+    <value>53, 43</value>
+  </data>
+  <data name="txtBuscarCliente.Size" type="System.Drawing.Size, System.Drawing">
+    <value>334, 20</value>
+  </data>
+  <data name="txtBuscarCliente.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarCliente.Name" xml:space="preserve">
+    <value>txtBuscarCliente</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarCliente.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarCliente.Parent" xml:space="preserve">
+    <value>groupControl2</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarCliente.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupControl2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="groupControl2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>855, 100</value>
+  </data>
+  <data name="groupControl2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="groupControl2.Text" xml:space="preserve">
+    <value>Buscar Cliente</value>
+  </data>
+  <data name="&gt;&gt;groupControl2.Name" xml:space="preserve">
+    <value>groupControl2</value>
+  </data>
+  <data name="&gt;&gt;groupControl2.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.GroupControl, DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;groupControl2.Parent" xml:space="preserve">
+    <value>tpBuscarCLiente</value>
+  </data>
+  <data name="&gt;&gt;groupControl2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="spBuscarClienteBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="spBuscarClienteDS.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>233, 17</value>
+  </metadata>
+  <data name="gbBuscarcliente.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 109</value>
+  </data>
+  <data name="gridColumn2.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="gridColumn2.VisibleIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="gridColumn3.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="gridColumn3.VisibleIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="gridColumn4.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="gridColumn4.VisibleIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="gridColumn5.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="gridColumn5.VisibleIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="gridColumn6.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="gridColumn6.VisibleIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="gridColumn7.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="gridColumn7.VisibleIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="gbBuscarcliente.Size" type="System.Drawing.Size, System.Drawing">
+    <value>855, 299</value>
+  </data>
+  <data name="gbBuscarcliente.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;gbBuscarcliente.Name" xml:space="preserve">
+    <value>gbBuscarcliente</value>
+  </data>
+  <data name="&gt;&gt;gbBuscarcliente.Type" xml:space="preserve">
+    <value>DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;gbBuscarcliente.Parent" xml:space="preserve">
+    <value>tpBuscarCLiente</value>
+  </data>
+  <data name="&gt;&gt;gbBuscarcliente.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tpBuscarCLiente.Size" type="System.Drawing.Size, System.Drawing">
+    <value>861, 452</value>
+  </data>
+  <data name="tpBuscarCLiente.Text" xml:space="preserve">
+    <value>Buscar Cliente</value>
+  </data>
+  <data name="&gt;&gt;tpBuscarCLiente.Name" xml:space="preserve">
+    <value>tpBuscarCLiente</value>
+  </data>
+  <data name="&gt;&gt;tpBuscarCLiente.Type" xml:space="preserve">
+    <value>DevExpress.XtraTab.XtraTabPage, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;tpBuscarCLiente.Parent" xml:space="preserve">
+    <value>tbControl</value>
+  </data>
+  <data name="&gt;&gt;tpBuscarCLiente.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tbControl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>863, 477</value>
+  </data>
+  <data name="tbControl.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnCancelar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>451, 390</value>
+  </data>
+  <data name="btnCancelar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnCancelar.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnCancelar.Text" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.Name" xml:space="preserve">
+    <value>btnCancelar</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.Parent" xml:space="preserve">
+    <value>tpAgregarcliente</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnGuardar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>334, 390</value>
+  </data>
+  <data name="btnGuardar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnGuardar.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnGuardar.Text" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="&gt;&gt;btnGuardar.Name" xml:space="preserve">
+    <value>btnGuardar</value>
+  </data>
+  <data name="&gt;&gt;btnGuardar.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnGuardar.Parent" xml:space="preserve">
+    <value>tpAgregarcliente</value>
+  </data>
+  <data name="&gt;&gt;btnGuardar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnNuevo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>206, 390</value>
+  </data>
+  <data name="btnNuevo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnNuevo.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnNuevo.Text" xml:space="preserve">
+    <value>Nuevo</value>
+  </data>
+  <data name="&gt;&gt;btnNuevo.Name" xml:space="preserve">
+    <value>btnNuevo</value>
+  </data>
+  <data name="&gt;&gt;btnNuevo.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.SimpleButton, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;btnNuevo.Parent" xml:space="preserve">
+    <value>tpAgregarcliente</value>
+  </data>
+  <data name="&gt;&gt;btnNuevo.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tbAgregarClientes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 22</value>
+  </data>
+  <data name="txtEmail.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtEmail.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtEmail.Location" type="System.Drawing.Point, System.Drawing">
+    <value>205, 267</value>
+  </data>
+  <data name="txtEmail.Size" type="System.Drawing.Size, System.Drawing">
+    <value>447, 20</value>
+  </data>
+  <data name="txtEmail.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Name" xml:space="preserve">
+    <value>txtEmail</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtGrupo.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtGrupo.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtGrupo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 267</value>
+  </data>
+  <data name="txtGrupo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 20</value>
+  </data>
+  <data name="txtGrupo.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="&gt;&gt;txtGrupo.Name" xml:space="preserve">
+    <value>txtGrupo</value>
+  </data>
+  <data name="&gt;&gt;txtGrupo.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtGrupo.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtGrupo.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtCuentaBancaria.EditValue" xml:space="preserve">
+    <value>NO IDENTIFICADA</value>
+  </data>
+  <data name="txtCuentaBancaria.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtCuentaBancaria.Location" type="System.Drawing.Point, System.Drawing">
+    <value>498, 222</value>
+  </data>
+  <data name="txtCuentaBancaria.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 20</value>
+  </data>
+  <data name="txtCuentaBancaria.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="&gt;&gt;txtCuentaBancaria.Name" xml:space="preserve">
+    <value>txtCuentaBancaria</value>
+  </data>
+  <data name="&gt;&gt;txtCuentaBancaria.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtCuentaBancaria.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtCuentaBancaria.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txtCURP.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtCURP.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtCURP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>287, 222</value>
+  </data>
+  <data name="txtCURP.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 20</value>
+  </data>
+  <data name="txtCURP.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="&gt;&gt;txtCURP.Name" xml:space="preserve">
+    <value>txtCURP</value>
+  </data>
+  <data name="&gt;&gt;txtCURP.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtCURP.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtCURP.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="txtRFC.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtRFC.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtRFC.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 222</value>
+  </data>
+  <data name="txtRFC.Size" type="System.Drawing.Size, System.Drawing">
+    <value>260, 20</value>
+  </data>
+  <data name="txtRFC.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="&gt;&gt;txtRFC.Name" xml:space="preserve">
+    <value>txtRFC</value>
+  </data>
+  <data name="&gt;&gt;txtRFC.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtRFC.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtRFC.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="labelControl16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>205, 248</value>
+  </data>
+  <data name="labelControl16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>24, 13</value>
+  </data>
+  <data name="labelControl16.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="labelControl16.Text" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="&gt;&gt;labelControl16.Name" xml:space="preserve">
+    <value>labelControl16</value>
+  </data>
+  <data name="&gt;&gt;labelControl16.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl16.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl16.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="labelControl15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>498, 203</value>
+  </data>
+  <data name="labelControl15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 13</value>
+  </data>
+  <data name="labelControl15.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="labelControl15.Text" xml:space="preserve">
+    <value>Cuenta Bancaria</value>
+  </data>
+  <data name="&gt;&gt;labelControl15.Name" xml:space="preserve">
+    <value>labelControl15</value>
+  </data>
+  <data name="&gt;&gt;labelControl15.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl15.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl15.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="labelControl14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>287, 203</value>
+  </data>
+  <data name="labelControl14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>27, 13</value>
+  </data>
+  <data name="labelControl14.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="labelControl14.Text" xml:space="preserve">
+    <value>CURP</value>
+  </data>
+  <data name="&gt;&gt;labelControl14.Name" xml:space="preserve">
+    <value>labelControl14</value>
+  </data>
+  <data name="&gt;&gt;labelControl14.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl14.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl14.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="chkClienteActivo.EditValue" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkClienteActivo.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="chkClienteActivo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 293</value>
+  </data>
+  <data name="chkClienteActivo.Properties.Caption" xml:space="preserve">
+    <value>Cliente Activo</value>
+  </data>
+  <data name="chkClienteActivo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 19</value>
+  </data>
+  <data name="chkClienteActivo.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;chkClienteActivo.Name" xml:space="preserve">
+    <value>chkClienteActivo</value>
+  </data>
+  <data name="&gt;&gt;chkClienteActivo.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.CheckEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;chkClienteActivo.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;chkClienteActivo.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="labelControl13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 248</value>
+  </data>
+  <data name="labelControl13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 13</value>
+  </data>
+  <data name="labelControl13.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="labelControl13.Text" xml:space="preserve">
+    <value>Grupo</value>
+  </data>
+  <data name="&gt;&gt;labelControl13.Name" xml:space="preserve">
+    <value>labelControl13</value>
+  </data>
+  <data name="&gt;&gt;labelControl13.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl13.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl13.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="labelControl12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 203</value>
+  </data>
+  <data name="labelControl12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 13</value>
+  </data>
+  <data name="labelControl12.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="labelControl12.Text" xml:space="preserve">
+    <value>R.F.C.</value>
+  </data>
+  <data name="&gt;&gt;labelControl12.Name" xml:space="preserve">
+    <value>labelControl12</value>
+  </data>
+  <data name="&gt;&gt;labelControl12.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl12.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl12.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lueEstados.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="lueEstados.Location" type="System.Drawing.Point, System.Drawing">
+    <value>498, 177</value>
+  </data>
+  <assembly alias="DevExpress.Utils.v17.2" name="DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="lueEstados.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v17.2">
+    <value>Combo</value>
+  </data>
+  <data name="lueEstados.Properties.NullText" xml:space="preserve">
+    <value>Selecciona un Estado</value>
+  </data>
+  <data name="lueEstados.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 20</value>
+  </data>
+  <data name="lueEstados.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="&gt;&gt;lueEstados.Name" xml:space="preserve">
+    <value>lueEstados</value>
+  </data>
+  <data name="&gt;&gt;lueEstados.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;lueEstados.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;lueEstados.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="txtMunicipio.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtMunicipio.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtMunicipio.Location" type="System.Drawing.Point, System.Drawing">
+    <value>287, 177</value>
+  </data>
+  <data name="txtMunicipio.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 20</value>
+  </data>
+  <data name="txtMunicipio.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;txtMunicipio.Name" xml:space="preserve">
+    <value>txtMunicipio</value>
+  </data>
+  <data name="&gt;&gt;txtMunicipio.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtMunicipio.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtMunicipio.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="txtLocalidad.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtLocalidad.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtLocalidad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 177</value>
+  </data>
+  <data name="txtLocalidad.Size" type="System.Drawing.Size, System.Drawing">
+    <value>260, 20</value>
+  </data>
+  <data name="txtLocalidad.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;txtLocalidad.Name" xml:space="preserve">
+    <value>txtLocalidad</value>
+  </data>
+  <data name="&gt;&gt;txtLocalidad.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtLocalidad.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtLocalidad.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="labelControl11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>498, 162</value>
+  </data>
+  <data name="labelControl11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 13</value>
+  </data>
+  <data name="labelControl11.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="labelControl11.Text" xml:space="preserve">
+    <value>Estado</value>
+  </data>
+  <data name="&gt;&gt;labelControl11.Name" xml:space="preserve">
+    <value>labelControl11</value>
+  </data>
+  <data name="&gt;&gt;labelControl11.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl11.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl11.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="labelControl10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>287, 158</value>
+  </data>
+  <data name="labelControl10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 13</value>
+  </data>
+  <data name="labelControl10.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="labelControl10.Text" xml:space="preserve">
+    <value>Municipio</value>
+  </data>
+  <data name="&gt;&gt;labelControl10.Name" xml:space="preserve">
+    <value>labelControl10</value>
+  </data>
+  <data name="&gt;&gt;labelControl10.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl10.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl10.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="labelControl9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 158</value>
+  </data>
+  <data name="labelControl9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 13</value>
+  </data>
+  <data name="labelControl9.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="labelControl9.Text" xml:space="preserve">
+    <value>Ciudad</value>
+  </data>
+  <data name="&gt;&gt;labelControl9.Name" xml:space="preserve">
+    <value>labelControl9</value>
+  </data>
+  <data name="&gt;&gt;labelControl9.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl9.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl9.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="labelControl8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>498, 113</value>
+  </data>
+  <data name="labelControl8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 13</value>
+  </data>
+  <data name="labelControl8.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="labelControl8.Text" xml:space="preserve">
+    <value>Telefono</value>
+  </data>
+  <data name="&gt;&gt;labelControl8.Name" xml:space="preserve">
+    <value>labelControl8</value>
+  </data>
+  <data name="&gt;&gt;labelControl8.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl8.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl8.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="txtTelefono.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtTelefono.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtTelefono.Location" type="System.Drawing.Point, System.Drawing">
+    <value>498, 132</value>
+  </data>
+  <data name="txtTelefono.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 20</value>
+  </data>
+  <data name="txtTelefono.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;txtTelefono.Name" xml:space="preserve">
+    <value>txtTelefono</value>
+  </data>
+  <data name="&gt;&gt;txtTelefono.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtTelefono.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtTelefono.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="txtCP.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtCP.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtCP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 132</value>
+  </data>
+  <data name="txtCP.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 20</value>
+  </data>
+  <data name="txtCP.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;txtCP.Name" xml:space="preserve">
+    <value>txtCP</value>
+  </data>
+  <data name="&gt;&gt;txtCP.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtCP.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtCP.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="txtColonia.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtColonia.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtColonia.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 132</value>
+  </data>
+  <data name="txtColonia.Size" type="System.Drawing.Size, System.Drawing">
+    <value>364, 20</value>
+  </data>
+  <data name="txtColonia.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;txtColonia.Name" xml:space="preserve">
+    <value>txtColonia</value>
+  </data>
+  <data name="&gt;&gt;txtColonia.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtColonia.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtColonia.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="labelControl7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>403, 113</value>
+  </data>
+  <data name="labelControl7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>21, 13</value>
+  </data>
+  <data name="labelControl7.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="labelControl7.Text" xml:space="preserve">
+    <value>C.P.</value>
+  </data>
+  <data name="&gt;&gt;labelControl7.Name" xml:space="preserve">
+    <value>labelControl7</value>
+  </data>
+  <data name="&gt;&gt;labelControl7.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl7.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl7.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="labelControl6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 113</value>
+  </data>
+  <data name="labelControl6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>35, 13</value>
+  </data>
+  <data name="labelControl6.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="labelControl6.Text" xml:space="preserve">
+    <value>Colonia</value>
+  </data>
+  <data name="&gt;&gt;labelControl6.Name" xml:space="preserve">
+    <value>labelControl6</value>
+  </data>
+  <data name="&gt;&gt;labelControl6.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl6.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl6.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="txtNoExterior.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtNoExterior.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtNoExterior.Location" type="System.Drawing.Point, System.Drawing">
+    <value>578, 87</value>
+  </data>
+  <data name="txtNoExterior.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 20</value>
+  </data>
+  <data name="txtNoExterior.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;txtNoExterior.Name" xml:space="preserve">
+    <value>txtNoExterior</value>
+  </data>
+  <data name="&gt;&gt;txtNoExterior.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtNoExterior.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtNoExterior.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="txtNoInterior.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtNoInterior.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtNoInterior.Location" type="System.Drawing.Point, System.Drawing">
+    <value>498, 87</value>
+  </data>
+  <data name="txtNoInterior.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 20</value>
+  </data>
+  <data name="txtNoInterior.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;txtNoInterior.Name" xml:space="preserve">
+    <value>txtNoInterior</value>
+  </data>
+  <data name="&gt;&gt;txtNoInterior.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtNoInterior.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtNoInterior.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="txtCalle.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtCalle.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtCalle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 87</value>
+  </data>
+  <data name="txtCalle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>471, 20</value>
+  </data>
+  <data name="txtCalle.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;txtCalle.Name" xml:space="preserve">
+    <value>txtCalle</value>
+  </data>
+  <data name="&gt;&gt;txtCalle.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtCalle.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtCalle.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="labelControl5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>578, 68</value>
+  </data>
+  <data name="labelControl5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 13</value>
+  </data>
+  <data name="labelControl5.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="labelControl5.Text" xml:space="preserve">
+    <value>No. Exterior</value>
+  </data>
+  <data name="&gt;&gt;labelControl5.Name" xml:space="preserve">
+    <value>labelControl5</value>
+  </data>
+  <data name="&gt;&gt;labelControl5.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl5.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl5.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="labelControl4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>498, 68</value>
+  </data>
+  <data name="labelControl4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 13</value>
+  </data>
+  <data name="labelControl4.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="labelControl4.Text" xml:space="preserve">
+    <value>No. Interior</value>
+  </data>
+  <data name="&gt;&gt;labelControl4.Name" xml:space="preserve">
+    <value>labelControl4</value>
+  </data>
+  <data name="&gt;&gt;labelControl4.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl4.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl4.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="labelControl3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 68</value>
+  </data>
+  <data name="labelControl3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 13</value>
+  </data>
+  <data name="labelControl3.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="labelControl3.Text" xml:space="preserve">
+    <value>Calle</value>
+  </data>
+  <data name="&gt;&gt;labelControl3.Name" xml:space="preserve">
+    <value>labelControl3</value>
+  </data>
+  <data name="&gt;&gt;labelControl3.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl3.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl3.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="txtNombre.EditValue" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtNombre.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtNombre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>99, 42</value>
+  </data>
+  <data name="txtNombre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>553, 20</value>
+  </data>
+  <data name="txtNombre.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.Name" xml:space="preserve">
+    <value>txtNombre</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtNombre.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="txtClienteID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 42</value>
+  </data>
+  <data name="txtClienteID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 20</value>
+  </data>
+  <data name="txtClienteID.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txtClienteID.Name" xml:space="preserve">
+    <value>txtClienteID</value>
+  </data>
+  <data name="&gt;&gt;txtClienteID.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;txtClienteID.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;txtClienteID.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="labelControl2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>99, 23</value>
+  </data>
+  <data name="labelControl2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="labelControl2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="labelControl2.Text" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="&gt;&gt;labelControl2.Name" xml:space="preserve">
+    <value>labelControl2</value>
+  </data>
+  <data name="&gt;&gt;labelControl2.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl2.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl2.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="labelControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 23</value>
+  </data>
+  <data name="labelControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 13</value>
+  </data>
+  <data name="labelControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="labelControl1.Text" xml:space="preserve">
+    <value>Cliente</value>
+  </data>
+  <data name="&gt;&gt;labelControl1.Name" xml:space="preserve">
+    <value>labelControl1</value>
+  </data>
+  <data name="&gt;&gt;labelControl1.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl1.Parent" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;labelControl1.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="tbDatosGenerales.Size" type="System.Drawing.Size, System.Drawing">
+    <value>706, 324</value>
+  </data>
+  <data name="tbDatosGenerales.Text" xml:space="preserve">
+    <value>Agregar Cliente</value>
+  </data>
+  <data name="&gt;&gt;tbDatosGenerales.Name" xml:space="preserve">
+    <value>tbDatosGenerales</value>
+  </data>
+  <data name="&gt;&gt;tbDatosGenerales.Type" xml:space="preserve">
+    <value>DevExpress.XtraTab.XtraTabPage, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;tbDatosGenerales.Parent" xml:space="preserve">
+    <value>tbAgregarClientes</value>
+  </data>
+  <data name="&gt;&gt;tbDatosGenerales.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tbAgregarClientes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>708, 349</value>
+  </data>
+  <data name="tbAgregarClientes.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="textEdit17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 187</value>
+  </data>
+  <data name="textEdit17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 20</value>
+  </data>
+  <data name="textEdit17.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;textEdit17.Name" xml:space="preserve">
+    <value>textEdit17</value>
+  </data>
+  <data name="&gt;&gt;textEdit17.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;textEdit17.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;textEdit17.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lookUpEdit4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 161</value>
+  </data>
+  <data name="lookUpEdit4.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v17.2">
+    <value>Combo</value>
+  </data>
+  <data name="lookUpEdit4.Properties.Columns" xml:space="preserve">
+    <value>LOCAL</value>
+  </data>
+  <data name="lookUpEdit4.Properties.Columns1" xml:space="preserve">
+    <value>lOCAL</value>
+  </data>
+  <data name="lookUpEdit4.Properties.Columns2" xml:space="preserve">
+    <value>FEDERAL</value>
+  </data>
+  <data name="lookUpEdit4.Properties.Columns3" xml:space="preserve">
+    <value>FEDERAL</value>
+  </data>
+  <data name="lookUpEdit4.Properties.NullText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lookUpEdit4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 20</value>
+  </data>
+  <data name="lookUpEdit4.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;lookUpEdit4.Name" xml:space="preserve">
+    <value>lookUpEdit4</value>
+  </data>
+  <data name="&gt;&gt;lookUpEdit4.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;lookUpEdit4.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;lookUpEdit4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textEdit16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 109</value>
+  </data>
+  <data name="textEdit16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 20</value>
+  </data>
+  <data name="textEdit16.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;textEdit16.Name" xml:space="preserve">
+    <value>textEdit16</value>
+  </data>
+  <data name="&gt;&gt;textEdit16.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;textEdit16.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;textEdit16.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lueEntidadINE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 135</value>
+  </data>
+  <data name="lueEntidadINE.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v17.2">
+    <value>Combo</value>
+  </data>
+  <data name="lueEntidadINE.Properties.NullText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lueEntidadINE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 20</value>
+  </data>
+  <data name="lueEntidadINE.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;lueEntidadINE.Name" xml:space="preserve">
+    <value>lueEntidadINE</value>
+  </data>
+  <data name="&gt;&gt;lueEntidadINE.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;lueEntidadINE.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;lueEntidadINE.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lueTipoComite.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 83</value>
+  </data>
+  <data name="lueTipoComite.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v17.2">
+    <value>Combo</value>
+  </data>
+  <data name="lueTipoComite.Properties.Columns" xml:space="preserve">
+    <value>EJECUTIVO NACIONAL</value>
+  </data>
+  <data name="lueTipoComite.Properties.Columns1" xml:space="preserve">
+    <value>EJECUTIVO NACIONAL</value>
+  </data>
+  <data name="lueTipoComite.Properties.Columns2" xml:space="preserve">
+    <value>EJECUTIVO ESTATAL</value>
+  </data>
+  <data name="lueTipoComite.Properties.Columns3" xml:space="preserve">
+    <value>EJECUTIVO ESTATAL</value>
+  </data>
+  <data name="lueTipoComite.Properties.NullText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lueTipoComite.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 20</value>
+  </data>
+  <data name="lueTipoComite.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;lueTipoComite.Name" xml:space="preserve">
+    <value>lueTipoComite</value>
+  </data>
+  <data name="&gt;&gt;lueTipoComite.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;lueTipoComite.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;lueTipoComite.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lueTipoProceso.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 57</value>
+  </data>
+  <data name="lueTipoProceso.Properties.Buttons" type="DevExpress.XtraEditors.Controls.ButtonPredefines, DevExpress.Utils.v17.2">
+    <value>Combo</value>
+  </data>
+  <data name="lueTipoProceso.Properties.Columns" xml:space="preserve">
+    <value>ORDINARIO</value>
+  </data>
+  <data name="lueTipoProceso.Properties.Columns1" xml:space="preserve">
+    <value>ORDINARIO</value>
+  </data>
+  <data name="lueTipoProceso.Properties.Columns2" xml:space="preserve">
+    <value>CAMPAÑA</value>
+  </data>
+  <data name="lueTipoProceso.Properties.Columns3" xml:space="preserve">
+    <value>CAMPAÑA</value>
+  </data>
+  <data name="lueTipoProceso.Properties.Columns4" xml:space="preserve">
+    <value>PRECAMPAÑA</value>
+  </data>
+  <data name="lueTipoProceso.Properties.Columns5" xml:space="preserve">
+    <value>PRECAMPAÑA</value>
+  </data>
+  <data name="lueTipoProceso.Properties.NullText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lueTipoProceso.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 20</value>
+  </data>
+  <data name="lueTipoProceso.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;lueTipoProceso.Name" xml:space="preserve">
+    <value>lueTipoProceso</value>
+  </data>
+  <data name="&gt;&gt;lueTipoProceso.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LookUpEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;lueTipoProceso.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;lueTipoProceso.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="labelControl22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 194</value>
+  </data>
+  <data name="labelControl22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 13</value>
+  </data>
+  <data name="labelControl22.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="labelControl22.Text" xml:space="preserve">
+    <value>ID. Conta. Entidad</value>
+  </data>
+  <data name="&gt;&gt;labelControl22.Name" xml:space="preserve">
+    <value>labelControl22</value>
+  </data>
+  <data name="&gt;&gt;labelControl22.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl22.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;labelControl22.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="labelControl21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 168</value>
+  </data>
+  <data name="labelControl21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 13</value>
+  </data>
+  <data name="labelControl21.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="labelControl21.Text" xml:space="preserve">
+    <value>Ambito</value>
+  </data>
+  <data name="&gt;&gt;labelControl21.Name" xml:space="preserve">
+    <value>labelControl21</value>
+  </data>
+  <data name="&gt;&gt;labelControl21.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl21.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;labelControl21.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="labelControl20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 142</value>
+  </data>
+  <data name="labelControl20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 13</value>
+  </data>
+  <data name="labelControl20.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="labelControl20.Text" xml:space="preserve">
+    <value>Entidad</value>
+  </data>
+  <data name="&gt;&gt;labelControl20.Name" xml:space="preserve">
+    <value>labelControl20</value>
+  </data>
+  <data name="&gt;&gt;labelControl20.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl20.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;labelControl20.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="labelControl19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 116</value>
+  </data>
+  <data name="labelControl19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 13</value>
+  </data>
+  <data name="labelControl19.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="labelControl19.Text" xml:space="preserve">
+    <value>ID Contabilidad</value>
+  </data>
+  <data name="&gt;&gt;labelControl19.Name" xml:space="preserve">
+    <value>labelControl19</value>
+  </data>
+  <data name="&gt;&gt;labelControl19.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl19.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;labelControl19.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="labelControl18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 92</value>
+  </data>
+  <data name="labelControl18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 13</value>
+  </data>
+  <data name="labelControl18.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="labelControl18.Text" xml:space="preserve">
+    <value>Tipo de Comite</value>
+  </data>
+  <data name="&gt;&gt;labelControl18.Name" xml:space="preserve">
+    <value>labelControl18</value>
+  </data>
+  <data name="&gt;&gt;labelControl18.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl18.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;labelControl18.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="labelControl17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 64</value>
+  </data>
+  <data name="labelControl17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 13</value>
+  </data>
+  <data name="labelControl17.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="labelControl17.Text" xml:space="preserve">
+    <value>Tipo de Proceso</value>
+  </data>
+  <data name="&gt;&gt;labelControl17.Name" xml:space="preserve">
+    <value>labelControl17</value>
+  </data>
+  <data name="&gt;&gt;labelControl17.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;labelControl17.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;labelControl17.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="chkDatosINE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 24</value>
+  </data>
+  <data name="chkDatosINE.Properties.Caption" xml:space="preserve">
+    <value>Agregar Datos INE</value>
+  </data>
+  <data name="chkDatosINE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 19</value>
+  </data>
+  <data name="chkDatosINE.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;chkDatosINE.Name" xml:space="preserve">
+    <value>chkDatosINE</value>
+  </data>
+  <data name="&gt;&gt;chkDatosINE.Type" xml:space="preserve">
+    <value>DevExpress.XtraEditors.CheckEdit, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;chkDatosINE.Parent" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;chkDatosINE.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="tpDatosINE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>706, 324</value>
+  </data>
+  <data name="tpDatosINE.Text" xml:space="preserve">
+    <value>Datos INE</value>
+  </data>
+  <data name="&gt;&gt;tpDatosINE.Name" xml:space="preserve">
+    <value>tpDatosINE</value>
+  </data>
+  <data name="&gt;&gt;tpDatosINE.Type" xml:space="preserve">
+    <value>DevExpress.XtraTab.XtraTabPage, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;tpDatosINE.Parent" xml:space="preserve">
+    <value>tbAgregarClientes</value>
+  </data>
+  <data name="&gt;&gt;tpDatosINE.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tbAgregarClientes.Name" xml:space="preserve">
+    <value>tbAgregarClientes</value>
+  </data>
+  <data name="&gt;&gt;tbAgregarClientes.Type" xml:space="preserve">
+    <value>DevExpress.XtraTab.XtraTabControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;tbAgregarClientes.Parent" xml:space="preserve">
+    <value>tpAgregarcliente</value>
+  </data>
+  <data name="&gt;&gt;tbAgregarClientes.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tpAgregarcliente.Size" type="System.Drawing.Size, System.Drawing">
+    <value>861, 452</value>
+  </data>
+  <data name="tpAgregarcliente.Text" xml:space="preserve">
+    <value>Agregar Cliente</value>
+  </data>
+  <data name="&gt;&gt;tpAgregarcliente.Name" xml:space="preserve">
+    <value>tpAgregarcliente</value>
+  </data>
+  <data name="&gt;&gt;tpAgregarcliente.Type" xml:space="preserve">
+    <value>DevExpress.XtraTab.XtraTabPage, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;tpAgregarcliente.Parent" xml:space="preserve">
+    <value>tbControl</value>
+  </data>
+  <data name="&gt;&gt;tpAgregarcliente.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tbControl.Name" xml:space="preserve">
+    <value>tbControl</value>
+  </data>
+  <data name="&gt;&gt;tbControl.Type" xml:space="preserve">
+    <value>DevExpress.XtraTab.XtraTabControl, DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;tbControl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tbControl.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>102</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>887, 504</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>903, 491</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Buscar Cliente</value>
+  </data>
+  <data name="&gt;&gt;spBuscarClienteBindingSource.Name" xml:space="preserve">
+    <value>spBuscarClienteBindingSource</value>
+  </data>
+  <data name="&gt;&gt;spBuscarClienteBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;spBuscarClienteDS.Name" xml:space="preserve">
+    <value>spBuscarClienteDS</value>
+  </data>
+  <data name="&gt;&gt;spBuscarClienteDS.Type" xml:space="preserve">
+    <value>RPSuite.Datasets.Catalogos.spBuscarClienteDS, Datasets.Catalogos.spBuscarClienteDS.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;gridView2.Name" xml:space="preserve">
+    <value>gridView2</value>
+  </data>
+  <data name="&gt;&gt;gridView2.Type" xml:space="preserve">
+    <value>DevExpress.XtraGrid.Views.Grid.GridView, DevExpress.XtraGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;gridColumn2.Name" xml:space="preserve">
+    <value>gridColumn2</value>
+  </data>
+  <data name="&gt;&gt;gridColumn2.Type" xml:space="preserve">
+    <value>DevExpress.XtraGrid.Columns.GridColumn, DevExpress.XtraGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;gridColumn3.Name" xml:space="preserve">
+    <value>gridColumn3</value>
+  </data>
+  <data name="&gt;&gt;gridColumn3.Type" xml:space="preserve">
+    <value>DevExpress.XtraGrid.Columns.GridColumn, DevExpress.XtraGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;gridColumn4.Name" xml:space="preserve">
+    <value>gridColumn4</value>
+  </data>
+  <data name="&gt;&gt;gridColumn4.Type" xml:space="preserve">
+    <value>DevExpress.XtraGrid.Columns.GridColumn, DevExpress.XtraGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;gridColumn5.Name" xml:space="preserve">
+    <value>gridColumn5</value>
+  </data>
+  <data name="&gt;&gt;gridColumn5.Type" xml:space="preserve">
+    <value>DevExpress.XtraGrid.Columns.GridColumn, DevExpress.XtraGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;gridColumn6.Name" xml:space="preserve">
+    <value>gridColumn6</value>
+  </data>
+  <data name="&gt;&gt;gridColumn6.Type" xml:space="preserve">
+    <value>DevExpress.XtraGrid.Columns.GridColumn, DevExpress.XtraGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;gridColumn7.Name" xml:space="preserve">
+    <value>gridColumn7</value>
+  </data>
+  <data name="&gt;&gt;gridColumn7.Type" xml:space="preserve">
+    <value>DevExpress.XtraGrid.Columns.GridColumn, DevExpress.XtraGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmBuscarCliente</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>RPSuite.Base.frmPadre, RPSuite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+</root>

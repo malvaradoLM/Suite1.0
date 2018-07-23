@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="spDocumentoDS" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+  <xs:element name="spDocumentoDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="spDocumento" msprop:Schema="spDocumento">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocumentoID" type="xs:int" />
+              <xs:element name="Fecha" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Observaciones" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Imagen" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="EmpleadoID" type="xs:int" minOccurs="0" />
+              <xs:element name="TipoDocumentoID" type="xs:int" minOccurs="0" />
+              <xs:element name="UsuarioID" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="PK_spDocumento" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//spDocumento" />
+      <xs:field xpath="DocumentoID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

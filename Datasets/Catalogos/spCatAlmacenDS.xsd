@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="spCatAlmacenDS" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+  <xs:element name="spCatAlmacenDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="spCatAlmacen" msprop:Schema="spCatAlmacen">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AlmacenID" type="xs:int" />
+              <xs:element name="Nombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="70" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Compras" type="xs:boolean" minOccurs="0" />
+              <xs:element name="EstacionID" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="PK_spCatAlmacen" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//spCatAlmacen" />
+      <xs:field xpath="AlmacenID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,1519 @@
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.BaseModule.resources
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmCatalogo.resources
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmPadre.resources
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.Form2.resources
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Data.DataModule.resources
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEstacion.resources
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.frmLogin.resources
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.frmPrincipal.resources
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Properties.Resources.resources
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.csproj.GenerateResource.Cache
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.exe.licenses
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.exe.config
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.exe
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.pdb
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.ZLib.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.pdb
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.pdb
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.pdb
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.ZLib.pdb
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.exe
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.pdb
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.csprojResolveAssemblyReference.cache
+C:\Users\RedPacifico\documents\visual studio 2017\Projects\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCliente.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.BaseModule.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmDesignReport.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmCatalogo.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmPadre.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.Form2.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Data.DataModule.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoBanco.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCliente.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEstacion.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoReportes.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.frmLogin.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.frmPrincipal.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Properties.Resources.resources
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.csproj.GenerateResource.Cache
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.exe.licenses
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.csprojResolveAssemblyReference.cache
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.exe.config
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.exe
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.pdb
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.CodeParser.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Data.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Images.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.Script.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.ZLib.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ScintillaNET.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Data.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.pdb
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.pdb
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.pdb
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.Script.pdb
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.pdb
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.ZLib.pdb
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.exe
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.pdb
+Z:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.exe.config
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.exe
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.pdb
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.CodeParser.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Data.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Dialogs.v17.2.Core.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Images.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraDialogs.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraWizard.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.Script.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.ZLib.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ScintillaNET.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Data.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraWizard.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.pdb
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.pdb
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.pdb
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.Script.pdb
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.pdb
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.ZLib.pdb
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraWizard.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraWizard.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraWizard.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraWizard.v17.2.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.BaseModule.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmDesignReport.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmCatalogo.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmEstructura.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmPadre.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.Form2.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Data.DataModule.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoBanco.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCategoria.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCliente.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCuentaBancaria.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoDiaFestivo.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEmpleadocs.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEstacion.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoFormadePago.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoGrupoNomina.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoReportes.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoProducto.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoProveedor.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoTerminalBiometrica.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoTipoDocumento.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.frmLogin.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Facturacion.frmBuscarCliente.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Facturacion.frmDatosCliente.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Liquidacion.frmFacturaContado.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Inventario.frmAlmacen.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.frmPrincipal.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Properties.Resources.resources
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.exe.licenses
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.exe
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.pdb
+\\vmware-host\Shared Folders\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.csprojResolveAssemblyReference.cache
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.BaseModule.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmDesignReport.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmCatalogo.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmEstructura.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Base.frmPadre.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.Form2.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Data.DataModule.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoBanco.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCategoria.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCliente.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCuentaBancaria.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoDiaFestivo.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEstacion.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoFormadePago.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoGrupoNomina.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoReportes.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoProducto.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoProveedor.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoTerminalBiometrica.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoTipoDocumento.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.frmLogin.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Facturacion.frmBuscarCliente.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Facturacion.frmDatosCliente.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Liquidacion.frmFacturaContado.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Inventario.frmAlmacen.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.frmPrincipal.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Properties.Resources.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.csproj.GenerateResource.Cache
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.exe.licenses
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.exe.config
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.exe
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RPSuite.pdb
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Dialogs.v17.2.Core.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraDialogs.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraWizard.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.Script.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.ZLib.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ScintillaNET.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraWizard.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.pdb
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.pdb
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.pdb
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.Script.pdb
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.pdb
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\RemObjects.SDK.ZLib.pdb
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEmpleadocs.resources
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.exe
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.pdb
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.csprojResolveAssemblyReference.cache
+C:\Proyectos\RPSuite 1.0\RPSuite\obj\Debug\RPSuite.csproj.CoreCompileInputs.cache
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RPSuite.exe.config
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RPSuite.exe
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RPSuite.pdb
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Data.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Dialogs.v17.2.Core.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Images.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraDialogs.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraWizard.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.Script.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.ZLib.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ScintillaNET.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Data.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraWizard.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.pdb
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.pdb
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.pdb
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.Script.pdb
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.pdb
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.ZLib.pdb
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraWizard.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraWizard.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraWizard.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraWizard.v17.2.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.csprojResolveAssemblyReference.cache
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Base.BaseModule.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmDesignReport.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmCatalogo.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmEstructura.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmPadre.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.Form2.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Data.DataModule.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoBanco.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCategoria.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCliente.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCuentaBancaria.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoDiaFestivo.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEmpleadocs.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEstacion.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoFormadePago.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoGrupoNomina.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoReportes.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoProducto.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoProveedor.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoTerminalBiometrica.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoTipoDocumento.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmLogin.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Facturacion.frmBuscarCliente.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Facturacion.frmDatosCliente.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Liquidacion.frmFacturaContado.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Inventario.frmAlmacen.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.frmPrincipal.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.Properties.Resources.resources
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.csproj.GenerateResource.Cache
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.exe.licenses
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.csproj.CoreCompileInputs.cache
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.exe
+C:\GitProjects\RPSuite\RPSuite\RPSuite\obj\Debug\RPSuite.pdb
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RPSuite.exe.config
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RPSuite.exe
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RPSuite.pdb
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.CodeParser.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Data.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Dialogs.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Images.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraDialogs.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraWizard.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.Script.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.ZLib.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ScintillaNET.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Data.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraWizard.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.pdb
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.pdb
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.pdb
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.Script.pdb
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.pdb
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.ZLib.pdb
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraWizard.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraWizard.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraWizard.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraWizard.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Base.BaseModule.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmDesignReport.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmCatalogo.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmEstructura.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmPadre.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.Form2.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Data.DataModule.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoBanco.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCategoria.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCliente.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCuentaBancaria.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoDiaFestivo.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEmpleadocs.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEstacion.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoFormadePago.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoGasolinero.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoGrupoEstacion.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoGrupoNomina.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoRegimenFiscal.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoReportes.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoProducto.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoProveedor.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoTerminalBiometrica.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoTipoDocumento.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmLogin.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Facturacion.frmBuscarCliente.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Facturacion.frmDatosCliente.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Liquidacion.frmFacturaContado.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Inventario.frmAlmacen.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.frmPrincipal.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.Properties.Resources.resources
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.csproj.GenerateResource.Cache
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.exe.licenses
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.csproj.CoreCompileInputs.cache
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.exe
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.pdb
+Z:\Compartida\Proyectos\RPSuite\RPSuite\obj\Debug\RPSuite.csprojResolveAssemblyReference.cache
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Drawing.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPdfViewer.v17.2.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Drawing.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPdfViewer.v17.2.xml
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraPdfViewer.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraPdfViewer.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraPdfViewer.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraPdfViewer.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RPSuite.exe.config
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RPSuite.exe
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RPSuite.pdb
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.CodeParser.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Data.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Dialogs.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Images.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Drawing.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraDialogs.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPdfViewer.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraWizard.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.Script.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.ZLib.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ScintillaNET.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Data.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Office.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Pdf.v17.2.Drawing.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Xpo.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraBars.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPdfViewer.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraWizard.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.pdb
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Async.pdb
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.DataAbstract.Scripting.pdb
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.Script.pdb
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.pdb
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\RemObjects.SDK.ZLib.pdb
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraPdfViewer.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraPdfViewer.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraPdfViewer.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraPdfViewer.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.XtraWizard.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.XtraWizard.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.XtraWizard.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.XtraWizard.v17.2.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.csprojResolveAssemblyReference.cache
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Base.BaseModule.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmDesignReport.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmCatalogo.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmEstructura.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Base.frmPadre.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.Form2.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Data.DataModule.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoBanco.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCategoria.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCliente.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoCuentaBancaria.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoDiaFestivo.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEmpleadocs.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoEstacion.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoFormadePago.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoGasolinero.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoGrupoEstacion.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoGrupoNomina.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoRegimenFiscal.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoReportes.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoProducto.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoProveedor.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmCatalogoTerminalBiometrica.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoTipoDocumento.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Catalogos.frmCatalogoVendedor.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.frmLogin.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Facturacion.frmBuscarCliente.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Facturacion.frmDatosCliente.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Liquidacion.frmFacturaContado.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Forms.Inventario.frmAlmacen.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.frmPrincipal.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.Properties.Resources.resources
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.csproj.GenerateResource.Cache
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.exe.licenses
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.csproj.CoreCompileInputs.cache
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.exe
+Z:\Compartida\Proyectos\RPSuiteLM\RPSuite\RPSuite\obj\Debug\RPSuite.pdb
