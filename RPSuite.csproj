@@ -119,15 +119,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\RPSuiteServer\Classes\utileriasComun.cs">
-      <Link>Server\utileriasComun.cs</Link>
-    </Compile>
-    <Compile Include="..\RPSuiteServer\RPSuiteReports_Intf.cs">
-      <Link>Server\RPSuiteReports_Intf.cs</Link>
-    </Compile>
-    <Compile Include="..\RPSuiteServer\RPSuiteServer_Intf.cs">
-      <Link>Server\RPSuiteServer_Intf.cs</Link>
-    </Compile>
     <Compile Include="Base\ActionKeys.cs" />
     <Compile Include="Base\BaseModule.cs">
       <SubType>Form</SubType>
@@ -454,6 +445,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>spCatGasolineroDS.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Server\RPSuiteReports_Intf.cs" />
+    <Compile Include="Server\RPSuiteServer_Intf.cs" />
+    <Compile Include="Server\utileriasComun.cs" />
     <EmbeddedResource Include="Base\BaseModule.resx">
       <DependentUpon>BaseModule.cs</DependentUpon>
     </EmbeddedResource>
